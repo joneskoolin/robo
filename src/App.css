@@ -1,0 +1,14 @@
+
+@font-face {
+font-family: 'Homemade Robot Italic Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Homemade Robot Italic Italic'), url('Homei.woff') format('woff');
+}
+
+h1 {
+
+font-family: 'Homemade Robot Italic Italic';
+font-weight: 600;
+color: #0ccac4;
+}
